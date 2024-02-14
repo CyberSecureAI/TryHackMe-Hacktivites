@@ -1,4 +1,4 @@
-# TryHackMe Labs
+# TryHackMe Hands-on Hacking
 
 ## Objective
 
