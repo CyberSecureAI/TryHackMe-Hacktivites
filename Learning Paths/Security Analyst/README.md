@@ -18,7 +18,8 @@ You need no prerequisite to start this pathway! Just enthusiasm and excitement t
 | <a href="https://google.com">Introduction to Offensive Security</a> | Understand what Offensive Security entails, and practice breaking into computer systems by exploting applications and networks|
 | <a href="https://google.com">Introduction to Defensive Security</a>        | Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live attack.|
 
-[Modules to include into Learning Path]
+[Learning Path - Modules]
+
 Introduction to Cyber Security
 Pre Security
 SOC Level 1
