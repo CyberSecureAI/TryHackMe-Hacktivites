@@ -1,23 +1,20 @@
-# Introduction to Cyber Security
+# Incident Responder
 
-Cyber Security is a huge topic, and it can be challenging to know where to start. This path will give you a hands-on introduction to different areas within cyber, including:
+Identifies and mitigates attacks whilst an attackers operations are still unfolding
 
-- Careers in Cyber Security
-- Offensive Security; hacking your first application
-- Defensive Security; defending against a live cyber attack
-- Exploring security topics in the industry
-- Completing this learning path will give you the knowledge to kick start your cyber journey.
+Incident responders respond productively and efficiently to security breaches. Responsibilities include creating plans, policies, and protocols for organisations to enact during and following incidents. This is often a highly pressurised position with assessments and responses required in real-time, as attacks are unfolding. Incident response metrics include MTTD, MTTA, and MTTR - the meantime to detect, acknowledge, and recover (from attacks.) The aim is to achieve a swift and effective response, retain financial standing and avoid negative breach implications. Ultimately, incident responders protect the company's data, reputation, and financial standing from cyber attacks.
 
-**No Prior Knowledge**
+### Responsibilities
 
-You need no prerequisite to start this pathway! Just enthusiasm and excitement to learn!
+Developing and adopting a thorough, actionable incident response plan
+Maintaining strong security best practices and supporting incident response measures
+Post-incident reporting and preparation for future attacks, considering learnings and adaptations to take from incidents
+
+### Learning Paths
+
+TryHackMe's learning paths will give you both the fundamental technical knowledge and hands-on experience, which is crucial to becoming a successful Incident Responder.
 
 | Modules                                         | Description
 |-----------------------------------------------|----------------------------|
-|<a href="https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security"> Introduction to Cyber Security </a>  |Understand what is offensive and defensive security, and learn about careers available in cyber.  |
-| <a href="https://google.com">Introduction to Offensive Security</a> | Understand what Offensive Security entails, and practice breaking into computer systems by exploting applications and networks|
-| <a href="https://google.com">Introduction to Defensive Security</a>        | Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live attack.|
+|<a href="https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security"> SOC Level 1 </a>  | |
 
-[Learning Path - Modules]
-
-SOC Level 1
