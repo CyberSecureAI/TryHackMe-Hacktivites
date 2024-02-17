@@ -1,24 +1,21 @@
-# Introduction to Cyber Security
+# Penetration Tester
 
-Cyber Security is a huge topic, and it can be challenging to know where to start. This path will give you a hands-on introduction to different areas within cyber, including:
+Responsible for testing technology products for security loopholes
 
-- Careers in Cyber Security
-- Offensive Security; hacking your first application
-- Defensive Security; defending against a live cyber attack
-- Exploring security topics in the industry
-- Completing this learning path will give you the knowledge to kick start your cyber journey.
+You may see penetration testing referred to as pentesting and ethical hacking. A penetration tester's job role is to test the security of the systems and software within a company - this is achieved through attempts to uncover flaws and vulnerabilities through systemised hacking. Penetration testers exploit these vulnerabilities to evaluate the risk in each instance. The company can then take these insights to rectify issues to prevent a real-world cyberattack.
 
-**No Prior Knowledge**
+### Responsibilities
 
-You need no prerequisite to start this pathway! Just enthusiasm and excitement to learn!
+Conduct tests on computer systems, networks, and web-based applications
+Perform security assessments, audits, and analyse policies
+Evaluate and report on insights, recommending actions for attack prevention
+
+### Learning Paths
+
+TryHackMe's learning paths will give you both the fundamental technical knowledge and hands-on experience, which is crucial to becoming a successful Penetration Tester.
 
 | Modules                                         | Description
 |-----------------------------------------------|----------------------------|
-|<a href="https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security"> Introduction to Cyber Security </a>  |Understand what is offensive and defensive security, and learn about careers available in cyber.  |
-| <a href="https://google.com">Introduction to Offensive Security</a> | Understand what Offensive Security entails, and practice breaking into computer systems by exploting applications and networks|
-| <a href="https://google.com">Introduction to Defensive Security</a>        | Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live attack.|
+|<a href="https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security"> JR Penetration Tester </a>  | |
+| <a href="https://google.com">Offensive Pentesting</a> | |
 
-[Learning Path - Modules]
-
-JR Penetration Tester
-Offensive Pentesting
