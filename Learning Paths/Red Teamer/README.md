@@ -1,25 +1,25 @@
-# Introduction to Cyber Security
+# Red Teamer
 
-Cyber Security is a huge topic, and it can be challenging to know where to start. This path will give you a hands-on introduction to different areas within cyber, including:
+Plays the role of an adversary, attacking an organisation and providing feedback from an enemies perspective
 
-- Careers in Cyber Security
-- Offensive Security; hacking your first application
-- Defensive Security; defending against a live cyber attack
-- Exploring security topics in the industry
-- Completing this learning path will give you the knowledge to kick start your cyber journey.
+Red teamers share similarities to penetration testers, with a more targeted job role. Penetration testers look to uncover many vulnerabilities across systems to keep cyber-defence in good standing, whilst red teamers are enacted to test the company's detection and response capabilities. This job role requires imitating cyber criminals' actions, emulating malicious attacks, retaining access, and avoiding detection. Red team assessments can run for up to a month, typically by a team external to the company. They are often best suited to organisations with mature security programs in place.
 
-**No Prior Knowledge**
+### Responsibilities
 
-You need no prerequisite to start this pathway! Just enthusiasm and excitement to learn!
+Emulate the role of a threat actor to uncover exploitable vulnerabilities, maintain access and avoid detection
+Assess organisations' security controls, threat intelligence, and incident response procedures
+Evaluate and report on insights, with actionable data for companies to avoid real-world instances
+
+### Learning Paths
+
+TryHackMe's learning paths will give you both the fundamental technical knowledge and hands-on experience, which is crucial to becoming a successful Red Teamer.
 
 | Modules                                         | Description
 |-----------------------------------------------|----------------------------|
-|<a href="https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security"> Introduction to Cyber Security </a>  |Understand what is offensive and defensive security, and learn about careers available in cyber.  |
-| <a href="https://google.com">Introduction to Offensive Security</a> | Understand what Offensive Security entails, and practice breaking into computer systems by exploting applications and networks|
-| <a href="https://google.com">Introduction to Defensive Security</a>        | Learn Defensive Security by using digital forensics in an investigation and applying security operations to stop a live attack.|
+|<a href="https://github.com/CyberSecureAI/THM-Introduction-to-Cyber-Security"> JR Penetration Tester </a>  |  |
+| <a href="https://google.com">Offensive Pentesting</a> | |
+| <a href="https://google.com">Red Teamer</a>        | |
 
-[Learning Path - Modules]
 
-JR Penetration Tester
-Offensive Pentesting
-Red Teamer
+
+
