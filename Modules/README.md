@@ -9,78 +9,78 @@ Modules are made up of bite-sized labs
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-## Notes
+## Notes -  Cybersecurity Tools By Category
 
-Cybersecurity Tools By Category
 
-Information Gathering:
->Nmap
->Shodan
->Maltego
->TheHavester
->Recon-NG
->Amass
->Censys
->OSINT Framework
->Gobuster
 
-Exploitation:
->Burp Suite
->Metasploit Framework
->SQL Map
->ZAP
->ExploitDB
->Core Impact
->Cobalt Strike
+**Information Gathering:**
+>Nmap,
+>Shodan,
+>Maltego,
+>TheHavester,
+>Recon-NG,
+>Amass,
+>Censys,
+>OSINT Framework,
+>Gobuster,
 
-Password Cracking:
->John The Ripper
->Hydra
->Hashcat
->OPHCrack
->Medusa
->THC-Hydra
->Cain & Abel
+**Exploitation:**
+>Burp Suite,
+>Metasploit Framework,
+>SQL Map,
+>ZAP,
+>ExploitDB,
+>Core Impact,
+>Cobalt Strike,
 
-Vulnerability Scanning:
->OpenVAS
->Nessus
->AppScan
->LYNIS
->Retina
->Nexpose
+**Password Cracking:**
+>John The Ripper,
+>Hydra,
+>Hashcat,
+>OPHCrack,
+>Medusa,
+>THC-Hydra,
+>Cain & Abel,
 
-Software Engineering:
->GoPhish
->HiddenEye
->SocialFish
->EvilURL
->Evilginx
+**Vulnerability Scanning:**
+>OpenVAS,
+>Nessus,
+>AppScan,
+>LYNIS,
+>Retina,
+>Nexpose,
 
-Forensics:
->SluethKit
->Autopsy
->Volatility
->Guymager
->Foremost
->Binwalk
->Wireshark
+**Software Engineering:**
+>GoPhish,
+>HiddenEye,
+>SocialFish,
+>EvilURL,
+>Evilginx,
 
-Wireless Hacking:
->Aircrack-NG
->Wifite
->Kismet
->TCPDump
->Airsnort
->Netstumbler
->Reaver
+**Forensics:**
+>SluethKit,
+>Autopsy,
+>Volatility,
+>Guymager,
+>Foremost,
+>Binwalk,
+>Wireshark,
 
-Web Application Assessment:
->OWASP ZAP
->Burp Suite
->Nikto
->ZAP
->WPScan
->Gobuster
->App Spider
+**Wireless Hacking:**
+>Aircrack-NG,
+>Wifite,
+>Kismet,
+>TCPDump,
+>Airsnort,
+>Netstumbler,
+>Reaver,
+
+**Web Application Assessment:**
+>OWASP ZAP,
+>Burp Suite,
+>Nikto,
+>ZAP,
+>WPScan,
+>Gobuster,
+>App Spider,
 
