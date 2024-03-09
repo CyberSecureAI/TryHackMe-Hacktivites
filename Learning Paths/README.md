@@ -50,7 +50,7 @@ This comprehensive cybersecurity learning path will equip you with the following
 
 ---
 
-**Note:** Replace the placeholder links (`#`) with the actual links to the suggested labs and resources.
+<!--**Note:** Replace the placeholder links (`#`) with the actual links to the suggested labs and resources. -->
 
 ## 💼 Job Positions Aligned with Skills
 
