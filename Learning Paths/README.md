@@ -46,7 +46,7 @@ This comprehensive cybersecurity learning path will equip you with the following
 |                                               |                                                                                               |                         |
 | **Security Consultant 🌐**                     | Providing expertise on security solutions and best practices.                               | $80,000 - $120,000      |
 |                                               | Conducting risk assessments and advising on security policies.                              |                         |
-|                                               |                                                                                               |                         |
+
 
 
   
