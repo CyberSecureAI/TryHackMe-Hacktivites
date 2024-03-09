@@ -1,4 +1,4 @@
-# 🚀 Cybersecurity Learning Path README
+# 🚀 Cybersecurity Learning Path
 
 Welcome to the Cybersecurity Learning Path! 🛡️ This guide is designed to introduce newcomers to the cybersecurity space and provide a structured path to gain skills fit for various cybersecurity positions.
 
