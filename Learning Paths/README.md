@@ -9,19 +9,19 @@ This comprehensive cybersecurity learning path will equip you with the following
 
 | **Skill Area**                | **Key Learning Objectives**                                                                                         |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Linux Proficiency**         | - Learn the basics of the Linux operating system and command-line usage.                                           |
+| **Linux Proficiency**         | Learn the basics of the Linux operating system and command-line usage.                                           |
 |                               |                                                                                                                     |
-| **Web Exploitation Techniques**| - Understand core security issues in web applications.                                                             |
-|                               | - Learn to exploit vulnerabilities using industry tools and techniques.                                           |
+| **Web Exploitation Techniques**| Understand core security issues in web applications.                                                             |
+|                               | Learn to exploit vulnerabilities using industry tools and techniques.                                           |
 |                               |                                                                                                                     |
-| **Networking Expertise**      | - Gain knowledge of networking fundamentals, attacks, and exploits.                                                 |
-|                               | - Understand how to enumerate and attack various networking services.                                               |
+| **Networking Expertise**      | Gain knowledge of networking fundamentals, attacks, and exploits.                                                 |
+|                               | Understand how to enumerate and attack various networking services.                                               |
 |                               |                                                                                                                     |
-| **Computer Exploitation**     | - Strengthen your skills by exploiting applications and services.                                                   |
-|                               | - Use tools like Metasploit for probing and exploiting vulnerabilities.                                             |
+| **Computer Exploitation**     | Strengthen your skills by exploiting applications and services.                                                   |
+|                               | Use tools like Metasploit for probing and exploiting vulnerabilities.                                             |
 |                               |                                                                                                                     |
-| **Defensive Blue Teaming**    | - Learn how to analyze and defend against real-world cyber threats.                                                 |
-|                               | - Develop skills in threat and vulnerability management, malware analysis, and incident response.                 |
+| **Defensive Blue Teaming**    | Learn how to analyze and defend against real-world cyber threats.                                                 |
+|                               | Develop skills in threat and vulnerability management, malware analysis, and incident response.                 |
 
 
 ---
