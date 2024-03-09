@@ -7,24 +7,22 @@ Welcome to the Cybersecurity Learning Path! 🛡️ This guide is designed to in
 
 This comprehensive cybersecurity learning path will equip you with the following key skills:
 
-- **Linux Proficiency:**
-  - Learn the basics of the Linux operating system and command-line usage.
+| **Skill Area**                | **Key Learning Objectives**                                                                                         |
+|-------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| **Linux Proficiency**         | - Learn the basics of the Linux operating system and command-line usage.                                           |
+|                               |                                                                                                                     |
+| **Web Exploitation Techniques**| - Understand core security issues in web applications.                                                             |
+|                               | - Learn to exploit vulnerabilities using industry tools and techniques.                                           |
+|                               |                                                                                                                     |
+| **Networking Expertise**      | - Gain knowledge of networking fundamentals, attacks, and exploits.                                                 |
+|                               | - Understand how to enumerate and attack various networking services.                                               |
+|                               |                                                                                                                     |
+| **Computer Exploitation**     | - Strengthen your skills by exploiting applications and services.                                                   |
+|                               | - Use tools like Metasploit for probing and exploiting vulnerabilities.                                             |
+|                               |                                                                                                                     |
+| **Defensive Blue Teaming**    | - Learn how to analyze and defend against real-world cyber threats.                                                 |
+|                               | - Develop skills in threat and vulnerability management, malware analysis, and incident response.                 |
 
-- **Web Exploitation Techniques:**
-  - Understand core security issues in web applications.
-  - Learn to exploit vulnerabilities using industry tools and techniques.
-
-- **Networking Expertise:**
-  - Gain knowledge of networking fundamentals, attacks, and exploits.
-  - Understand how to enumerate and attack various networking services.
-
-- **Computer Exploitation:**
-  - Strengthen your skills by exploiting applications and services.
-  - Use tools like Metasploit for probing and exploiting vulnerabilities.
-
-- **Defensive Blue Teaming:**
-  - Learn how to analyze and defend against real-world cyber threats.
-  - Develop skills in threat and vulnerability management, malware analysis, and incident response.
 
 ---
 
@@ -32,35 +30,23 @@ This comprehensive cybersecurity learning path will equip you with the following
 
 ## 💼 Job Positions Aligned with Skills
 
-1. **Cybersecurity Analyst 🕵️‍♂️**
-   - **Responsibilities:**
-     - Monitoring and analyzing security incidents.
-     - Conducting vulnerability assessments and penetration testing.
-   - **Salary Range:** $60,000 - $100,000
+| **Job Position**                              | **Key Responsibilities**                                                                       | **Salary Range**        |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------|
+| **Cybersecurity Analyst 🕵️‍♂️**                | - Monitoring and analyzing security incidents.                                                | $60,000 - $100,000      |
+|                                               | - Conducting vulnerability assessments and penetration testing.                              |                         |
+|                                               |                                                                                               |                         |
+| **Security Consultant 🌐**                     | - Providing expertise on security solutions and best practices.                               | $80,000 - $120,000      |
+|                                               | - Conducting risk assessments and advising on security policies.                              |                         |
+|                                               |                                                                                               |                         |
+| **Network Security Engineer 🌐**               | - Designing and implementing secure network architectures.                                     | $70,000 - $110,000      |
+|                                               | - Monitoring and analyzing network traffic for security incidents.                            |                         |
+|                                               |                                                                                               |                         |
+| **Incident Responder 🚨**                      | - Identifying and responding to security incidents.                                            | $75,000 - $120,000      |
+|                                               | - Conducting forensic investigations.                                                         |                         |
+|                                               |                                                                                               |                         |
+| **Security Operations Center (SOC) Analyst 👩‍💻**| - Monitoring security alerts and incidents.                                                  | $60,000 - $95,000       |
+|                                               | - Analyzing and correlating security data.                                                   |                         |
 
-2. **Security Consultant 🌐**
-   - **Responsibilities:**
-     - Providing expertise on security solutions and best practices.
-     - Conducting risk assessments and advising on security policies.
-   - **Salary Range:** $80,000 - $120,000
-
-3. **Network Security Engineer 🌐**
-   - **Responsibilities:**
-     - Designing and implementing secure network architectures.
-     - Monitoring and analyzing network traffic for security incidents.
-   - **Salary Range:** $70,000 - $110,000
-
-4. **Incident Responder 🚨**
-   - **Responsibilities:**
-     - Identifying and responding to security incidents.
-     - Conducting forensic investigations.
-   - **Salary Range:** $75,000 - $120,000
-
-5. **Security Operations Center (SOC) Analyst 👩‍💻**
-   - **Responsibilities:**
-     - Monitoring security alerts and incidents.
-     - Analyzing and correlating security data.
-   - **Salary Range:** $60,000 - $95,000
   
 
 ## 📖 How to Use This Guide
