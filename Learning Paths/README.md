@@ -32,20 +32,20 @@ This comprehensive cybersecurity learning path will equip you with the following
 
 | **Job Position**                              | **Key Responsibilities**                                                                       | **Salary Range**        |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------|
-| **Security Operations Center (SOC) Analyst 👩‍💻**| - Monitoring security alerts and incidents.                                                  | $60,000 - $95,000       |
-|                                               | - Analyzing and correlating security data.                                                   |                         |
+| **Security Operations Center (SOC) Analyst 👩‍💻**| Monitoring security alerts and incidents.                                                  | $60,000 - $95,000       |
+|                                               | Analyzing and correlating security data.                                                   |                         |
 |                                               |                                                                                               |                         |
-| **Cybersecurity Analyst 🕵️‍♂️**                | - Monitoring and analyzing security incidents.                                                | $60,000 - $100,000      |
-|                                               | - Conducting vulnerability assessments and penetration testing.                              |                         |
+| **Cybersecurity Analyst 🕵️‍♂️**                | Monitoring and analyzing security incidents.                                                | $60,000 - $100,000      |
+|                                               | Conducting vulnerability assessments and penetration testing.                              |                         |
 |                                               |                                                                                               |                         |
-| **Network Security Engineer 🌐**               | - Designing and implementing secure network architectures.                                     | $70,000 - $110,000      |
-|                                               | - Monitoring and analyzing network traffic for security incidents.                            |                         |
+| **Network Security Engineer 🌐**               | Designing and implementing secure network architectures.                                     | $70,000 - $110,000      |
+|                                               | Monitoring and analyzing network traffic for security incidents.                            |                         |
 |                                               |                                                                                               |                         |
-| **Incident Responder 🚨**                      | - Identifying and responding to security incidents.                                            | $75,000 - $120,000      |
-|                                               | - Conducting forensic investigations.                                                         |                         |
+| **Incident Responder 🚨**                      | Identifying and responding to security incidents.                                            | $75,000 - $120,000      |
+|                                               | Conducting forensic investigations.                                                         |                         |
 |                                               |                                                                                               |                         |
-| **Security Consultant 🌐**                     | - Providing expertise on security solutions and best practices.                               | $80,000 - $120,000      |
-|                                               | - Conducting risk assessments and advising on security policies.                              |                         |
+| **Security Consultant 🌐**                     | Providing expertise on security solutions and best practices.                               | $80,000 - $120,000      |
+|                                               | Conducting risk assessments and advising on security policies.                              |                         |
 |                                               |                                                                                               |                         |
 
 
